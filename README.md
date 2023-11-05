@@ -10,6 +10,8 @@ pinned: false
 license: artistic-2.0
 ---
 
+# Cerebra
+### Your Second Brain
 ![logo](imgs/logo.png)
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
