@@ -14,4 +14,6 @@ license: artistic-2.0
 ### Your Second Brain
 ![logo](imgs/logo.png)
 
+https://www.youtube.com/watch?v=eEV0sHxiQ1I
+
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
