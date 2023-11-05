@@ -12,8 +12,9 @@ license: artistic-2.0
 
 # Cerebra
 ### Your Second Brain
+https://www.youtube.com/watch?v=eEV0sHxiQ1I
+
 ![logo](imgs/logo.png)
 
-https://www.youtube.com/watch?v=eEV0sHxiQ1I
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
