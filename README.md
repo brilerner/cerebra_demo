@@ -10,4 +10,6 @@ pinned: false
 license: artistic-2.0
 ---
 
+![logo](imgs/logo.png)
+
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
