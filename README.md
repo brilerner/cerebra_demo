@@ -12,8 +12,11 @@ license: artistic-2.0
 
 # Cerebra
 ### Your Second Brain
-[https://www.youtube.com/watch?v=eEV0sHxiQ1I](https://youtu.be/xNMxStQKBrY)
-https://devpost.com/software/cerebra-your-digital-health-wellness-assistant
+
+[Demo video](https://youtu.be/xNMxStQKBrY)
+
+[Devpost entry for Duke Generative AI Hackathon for 2023](https://devpost.com/software/cerebra-your-digital-health-wellness-assistant)
+
 ![logo](imgs/logo.png)
 
 
