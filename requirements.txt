@@ -1,0 +1,9 @@
+openai
+gradio
+numpy
+openai-whisper
+tabulate
+python-dotenv
+langchain
+pandas
+langchain_experimental
